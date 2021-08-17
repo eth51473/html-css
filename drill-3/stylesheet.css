@@ -1,0 +1,55 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+header{
+  background-color: lightgrey;
+  width: 90vw;
+  height: 10vh;
+}
+#bluebox{
+  background-color: rgb(14, 152, 238);
+  height: 50px;
+  width:50px;
+  margin-left: 15px;
+  margin-top: 5px;
+}
+#textbox{
+  padding: 50px;
+}
+footer{
+  width: 90vw;
+  height: 50vw;
+  margin-bottom: 20px;
+}
+#bigblue{
+  background-color: rgb(71, 134, 250);
+  height: 25%;
+  width: 100%;
+
+}
+#biglightgreen{
+  background-color: rgb(4, 248, 208);
+  height: 25%;
+  width: 100%;
+
+}
+#biggreen{
+  background-color: lightgreen;
+  height: 25%;
+  width: 100%;
+
+}
+#bigyellow{
+  background-color: yellow;
+  height: 25%;
+  width: 100%;
+
+}
